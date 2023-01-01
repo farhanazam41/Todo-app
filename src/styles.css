@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.todo-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.complete {
+  text-decoration: line-through;
+}
+.incomplete {
+  text-decoration: none;
+}
